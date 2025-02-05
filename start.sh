@@ -1,2 +1,2 @@
 #!/bin/sh
-~/modminer/ccminer -c ~/modminer/config.json
+~/modminer/modminer -c ~/modminer/config.json
