@@ -1,3 +1,3 @@
-''
+```bash
 termux-wake-lock && sleep 5 && pkg install libjansson nano git -y && git clone https://github.com/masehgek/modminer && cd modminer && clear && chmod +x modminer start.sh && bash start.sh
-''
+```
